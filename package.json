@@ -1,16 +1,16 @@
 {
-    "name": "tenka-san/WaBails",
+    "name": "ZieeHipenli/ArchiBails",
     "version": "1.7.3",
-    "description": "WhatsApp Modified By 7eppeli",
+    "description": "Baileys Modified By Ziee",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/tenka-san/WaBails",
+    "homepage": "https://github.com/ZieeHipenli/ArchiBails",
     "repository": {
-        "url": "https://github.com/tenka-san/WaBails"
+        "url": "https://github.com/ZieeHipenli/ArchiBails"
     },
     "license": "MIT",
-    "author": "7eppeli - Determinator",
+    "author": "Ziee Hipenli",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -45,7 +45,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:tenka-san/libsignal-node",
+        "libsignal": "github:ZieeHipenli/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
